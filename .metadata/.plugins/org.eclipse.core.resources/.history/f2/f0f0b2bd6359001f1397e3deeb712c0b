@@ -1,0 +1,13 @@
+package com.java8.programming.qa;
+
+/*
+ *	Write java program to find all duplicate element from a given string 
+ */
+
+public class Java8Programming02_FindAllDuplicateElement {
+
+	public static void main(String[] args) {
+
+	}
+
+}

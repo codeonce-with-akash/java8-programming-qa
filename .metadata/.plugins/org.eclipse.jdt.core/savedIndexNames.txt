@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+G:\workspace-codeones-2024\java-8-logical-programming\.metadata\.plugins\org.eclipse.jdt.core
+455635807.index
+1865797976.index
+3881207836.index

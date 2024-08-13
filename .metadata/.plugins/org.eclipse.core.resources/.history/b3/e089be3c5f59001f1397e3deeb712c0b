@@ -1,0 +1,15 @@
+package com.java8.programming.qa;
+
+import java.util.Arrays;
+
+/*
+ * Q)Write a java program to count the occurrence of each character in a String.
+ */
+public class Java8Programming01_Stream {
+	public static void main(String[] args) {
+		String input = "ilovemyindia";
+		//1. convert this input string to array of string
+		String[] result = input.split("");
+		System.out.println(Arrays.toString(result));
+	}
+}

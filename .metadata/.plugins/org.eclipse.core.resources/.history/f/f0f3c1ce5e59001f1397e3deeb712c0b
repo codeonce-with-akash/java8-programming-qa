@@ -1,0 +1,10 @@
+package com.java8.programming.qa;
+
+/*
+ * Q)Write a java program to count the occurrence of each character in a String.
+ */
+public class Java8Programming01_Stream {
+	public static void main(String[] args) {
+
+	}
+}
