@@ -1,0 +1,17 @@
+package com.java8.programming.qa;
+
+/*
+ * 	Q6) Write a java program to find all elements from array who starts with 1
+ */
+public class Java8Programming_FindAllElementsWhoStartsWith1 {
+
+	public static void main(String[] args) {
+		System.out.println("Elements who starts with 1 : " + findAllElementWhoStartWith1());
+	}
+
+	public static String findAllElementWhoStartWith1() {
+		int[] nums = { 5, 9, 11, 2, 8, 21, 1 };
+		return null;
+	}
+
+}

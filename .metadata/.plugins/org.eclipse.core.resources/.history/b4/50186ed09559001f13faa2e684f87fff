@@ -1,0 +1,10 @@
+package com.java8.programming.qa;
+
+public class JavaProgramming04_Find2ndHighestNumInArray {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

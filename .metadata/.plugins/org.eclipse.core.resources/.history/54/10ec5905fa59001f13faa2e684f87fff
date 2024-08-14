@@ -1,0 +1,9 @@
+package com.java8.programming.qa;
+
+public class Java8Programming08_SkipAndLimitMethodEx {
+
+	public static void main(String[] args) {
+
+	}
+
+}

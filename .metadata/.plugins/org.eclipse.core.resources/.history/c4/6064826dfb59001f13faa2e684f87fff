@@ -1,0 +1,18 @@
+package com.java8.programming.qa;
+
+import java.util.OptionalInt;
+import java.util.stream.IntStream;
+
+/*
+ * 	Q8) Skip and limit method use case based example
+ */
+public class Java8Programming08_SkipAndLimitMethodEx {
+
+	public static void main(String[] args) {
+		IntStream.rangeClosed(1, 10)
+		.skip(1)
+		.limit(8)
+		.forEach(System.out::println);
+	}
+
+}

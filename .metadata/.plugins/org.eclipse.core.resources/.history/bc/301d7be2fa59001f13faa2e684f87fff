@@ -1,0 +1,17 @@
+package com.java8.programming.qa;
+
+import java.util.stream.IntStream;
+
+/*
+ * 	Q8) Skip and limit method use case based example
+ */
+public class Java8Programming08_SkipAndLimitMethodEx {
+
+	public static void main(String[] args) {
+		IntStream.rangeClosed(1, 10)
+		.skip(5)
+		.findFirst()
+		.forEach(System.out::print);
+	}
+
+}

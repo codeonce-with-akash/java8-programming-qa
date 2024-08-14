@@ -1,0 +1,16 @@
+package com.java8.programming.qa;
+
+/*
+ *	Q4) Write a java program to find second highest number from given array 
+ */
+public class JavaProgramming04_Find2ndHighestNumInArray {
+
+	public static void main(String[] args) {
+		System.out.println("Second highest number is: ");
+	}
+	
+	public static Integer find2ndHighestNumber() {
+		int[] nums = {5, 9, 11, 2, 8, 21, 1};
+	}
+
+}

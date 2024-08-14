@@ -1,0 +1,10 @@
+package com.java8.programming.qa;
+
+public class Java8Programming05_FindLongestStringInArray {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
